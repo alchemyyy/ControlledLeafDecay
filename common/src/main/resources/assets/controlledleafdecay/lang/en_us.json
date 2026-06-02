@@ -1,0 +1,7 @@
+{
+  "controlledleafdecay.configuration.title": "ControlledLeafDecay Config",
+  "controlledleafdecay.configuration.section.controlledleafdecay.json": "ControlledLeafDecay Config",
+  "controlledleafdecay.configuration.section.controlledleafdecay.json.title": "ControlledLeafDecay Config",
+  "controlledleafdecay.configuration.MinimumDecayTime": "Minimum Decay Time",
+  "controlledleafdecay.configuration.MaximumDecayTime": "Maximum Decay Time (Exclusive)"
+}
